@@ -5,6 +5,13 @@
     android:gravity="center"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <TextView
+        android:layout_marginBottom="50dp"
+        android:text="DASHBOARD"
+        android:gravity="center"
+        android:textSize="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
     <Button
         android:id="@+id/but2"
         android:text="Add Movie"
